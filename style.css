@@ -11,7 +11,7 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 
 
 html {
-    background: #018DED url(http://unsplash.it/1500/1000?image=881&blur=5);
+    background: rgba(0, 71, 119, 0.63);
     background-size: cover;
     font-family: 'helvetica neue';
     text-align: center;
@@ -58,5 +58,4 @@ body {
     transform-origin: 100%;
     transform: rotate(90deg);
     transition: all 0.5s;
-    transition-timing-function: ease;
 }
